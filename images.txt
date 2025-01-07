@@ -3,3 +3,4 @@ mobz/elasticsearch-head:5
 kibana:7.7.0
 rabbitmq:management
 redis:7.4.1
+mysql:8.0
