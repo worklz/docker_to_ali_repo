@@ -1,1 +1,1 @@
-mysql:8.0
+docker.io/docker.io/mysql:8.0
