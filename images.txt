@@ -1,1 +1,2 @@
-docker.io/mysql:8.0
+bitnami/etcd:3.6.0
+
