@@ -1,2 +1,1 @@
-bitnami/etcd:3.6.0
-
+jaegertracing/all-in-one:1.35
